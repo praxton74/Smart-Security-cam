@@ -6,6 +6,3 @@ This repository shows how to turn Raspberry Pi Zero into a smart security camera
 * use serverless funciton deployed by **OpenFaaS** to upload images into **Amazon S3** and send e-mail notifications,
 * enable remote live video steaming through **remot3.it**
 
-The installation procedure is documented here https://github.com/salekd/rpizero_smart_camera3/wiki
-
-![](https://github.com/salekd/rpizero_smart_camera/blob/master/camera.JPG)
